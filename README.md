@@ -1,0 +1,1 @@
+The Bank Management System is a Java-based desktop application that simulates basic banking functions like deposits, withdrawals, and balance inquiries. Built using Swing, it offers a user-friendly interface for managing accounts and transactions.
